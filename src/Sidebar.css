@@ -1,0 +1,9 @@
+.sideBar{
+    position: absolute;
+    top: 44%;
+    right: 10px;
+    color: white;
+}
+.sidebarButton{
+    padding: 18px;
+}
